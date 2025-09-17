@@ -12,7 +12,7 @@
         </mxCell>
         <mxCell id="Ay433vLhD5onKc3j3dtD-3" style="shape=line;dashed=1;strokeWidth=2;" edge="1" parent="1">
           <mxGeometry x="120" y="60" height="500" relative="1" as="geometry">
-            <mxPoint x="120" y="60" as="sourcePoint" />
+            <mxPoint x="200" y="60" as="sourcePoint" />
             <mxPoint x="120" y="560" as="targetPoint" />
           </mxGeometry>
         </mxCell>
@@ -22,13 +22,7 @@
             <mxPoint x="460" y="560" as="targetPoint" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="Ay433vLhD5onKc3j3dtD-5" value="① Miner.Login" style="endArrow=block;html=1;" edge="1" parent="1">
-          <mxGeometry relative="1" as="geometry">
-            <mxPoint x="250" y="210" as="sourcePoint" />
-            <mxPoint x="590" y="210" as="targetPoint" />
-          </mxGeometry>
-        </mxCell>
-        <mxCell id="Ay433vLhD5onKc3j3dtD-6" value="② Pool.Verify" style="endArrow=block;html=1;" edge="1" parent="1">
+        <mxCell id="Ay433vLhD5onKc3j3dtD-6" value="② Pool.Verify" style="endArrow=block;html=1;sourcePerimeterSpacing=0;" edge="1" parent="1">
           <mxGeometry relative="1" as="geometry">
             <mxPoint x="590" y="250" as="sourcePoint" />
             <mxPoint x="250" y="250" as="targetPoint" />
