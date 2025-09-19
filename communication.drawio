@@ -28,7 +28,7 @@
             <mxPoint x="590" y="169.52" as="targetPoint" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="Ay433vLhD5onKc3j3dtD-6" value="② Pool.Verify" style="endArrow=block;html=1;" edge="1" parent="1">
+        <mxCell id="Ay433vLhD5onKc3j3dtD-6" value="" style="endArrow=block;html=1;" edge="1" parent="1">
           <mxGeometry relative="1" as="geometry">
             <mxPoint x="590" y="208" as="sourcePoint" />
             <mxPoint x="250" y="208" as="targetPoint" />
