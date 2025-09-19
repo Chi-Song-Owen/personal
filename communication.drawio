@@ -1,6 +1,6 @@
 <mxfile host="app.diagrams.net" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/139.0.0.0 Safari/537.36" version="28.1.2">
   <diagram name="Stratum Protocol" id="w2IsIS3S49XQDsfhOpsc">
-    <mxGraphModel dx="984" dy="525" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
+    <mxGraphModel dx="1059" dy="566" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
@@ -30,8 +30,8 @@
         </mxCell>
         <mxCell id="Ay433vLhD5onKc3j3dtD-6" value="② Pool.Verify" style="endArrow=block;html=1;" edge="1" parent="1">
           <mxGeometry relative="1" as="geometry">
-            <mxPoint x="590" y="250" as="sourcePoint" />
-            <mxPoint x="250" y="250" as="targetPoint" />
+            <mxPoint x="590" y="208" as="sourcePoint" />
+            <mxPoint x="250" y="208" as="targetPoint" />
           </mxGeometry>
         </mxCell>
         <mxCell id="Ay433vLhD5onKc3j3dtD-7" value="③ Pool.Send_job" style="endArrow=block;html=1;" edge="1" parent="1">
@@ -40,13 +40,10 @@
             <mxPoint x="250" y="290" as="targetPoint" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="Ay433vLhD5onKc3j3dtD-8" value="④ Mining" style="shape=note;whiteSpace=wrap;html=1;fontSize=12;fillColor=#FFF2CC;" vertex="1" parent="1">
-          <mxGeometry x="330" y="330" width="120" height="40" as="geometry" />
-        </mxCell>
-        <mxCell id="Ay433vLhD5onKc3j3dtD-9" value="⑤ Miner.Submit" style="endArrow=block;html=1;" edge="1" parent="1">
+        <mxCell id="Ay433vLhD5onKc3j3dtD-9" value="" style="endArrow=block;html=1;" edge="1" parent="1">
           <mxGeometry relative="1" as="geometry">
-            <mxPoint x="250" y="390" as="sourcePoint" />
-            <mxPoint x="590" y="390" as="targetPoint" />
+            <mxPoint x="250" y="198" as="sourcePoint" />
+            <mxPoint x="590" y="198" as="targetPoint" />
           </mxGeometry>
         </mxCell>
         <mxCell id="Ay433vLhD5onKc3j3dtD-10" value="⑥ Pool.Confirm" style="endArrow=block;html=1;" edge="1" parent="1">
@@ -67,8 +64,8 @@
         <mxCell id="Ay433vLhD5onKc3j3dtD-21" value="" style="shape=mxgraph.networks2.icon;aspect=fixed;fillColor=#EDEDED;strokeColor=#000000;gradientColor=#5B6163;network2IconShadow=1;network2bgFillColor=none;labelPosition=center;verticalLabelPosition=bottom;align=center;verticalAlign=top;network2Icon=mxgraph.networks2.laptop;network2IconW=1;network2IconH=0.5734;" vertex="1" parent="1">
           <mxGeometry x="200" y="80" width="104.64" height="60" as="geometry" />
         </mxCell>
-        <mxCell id="Ay433vLhD5onKc3j3dtD-22" value="&lt;font style=&quot;font-size: 8px;&quot;&gt;① TCP Connect&amp;nbsp;&lt;/font&gt;" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" vertex="1" parent="1">
-          <mxGeometry x="240" y="150" width="80" height="30" as="geometry" />
+        <mxCell id="Ay433vLhD5onKc3j3dtD-22" value="&lt;font style=&quot;font-size: 8px;&quot;&gt;① TCP Connect&amp;nbsp;&lt;/font&gt;" style="text;html=1;align=left;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" vertex="1" parent="1">
+          <mxGeometry x="250" y="148" width="80" height="30" as="geometry" />
         </mxCell>
         <mxCell id="Ay433vLhD5onKc3j3dtD-23" value="" style="endArrow=block;html=1;" edge="1" parent="1">
           <mxGeometry relative="1" as="geometry">
@@ -76,8 +73,11 @@
             <mxPoint x="250" y="180" as="targetPoint" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="Ay433vLhD5onKc3j3dtD-26" value="&lt;font style=&quot;font-size: 8px;&quot;&gt;② TCP connect Success&lt;/font&gt;" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" vertex="1" parent="1">
-          <mxGeometry x="490" y="168" width="110" height="30" as="geometry" />
+        <mxCell id="Ay433vLhD5onKc3j3dtD-26" value="&lt;font style=&quot;font-size: 8px;&quot;&gt;② TCP connect Success&lt;/font&gt;" style="text;html=1;align=right;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" vertex="1" parent="1">
+          <mxGeometry x="480" y="168" width="110" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="Ay433vLhD5onKc3j3dtD-28" value="&lt;font style=&quot;font-size: 8px;&quot;&gt;③ TLS ClientHello&lt;/font&gt;" style="text;html=1;align=left;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" vertex="1" parent="1">
+          <mxGeometry x="250" y="178" width="90" height="30" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
