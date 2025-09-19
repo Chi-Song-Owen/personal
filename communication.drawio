@@ -96,18 +96,18 @@
         </mxCell>
         <mxCell id="Ay433vLhD5onKc3j3dtD-33" value="" style="endArrow=block;html=1;" edge="1" parent="1">
           <mxGeometry relative="1" as="geometry">
-            <mxPoint x="590" y="269.49" as="sourcePoint" />
-            <mxPoint x="250" y="269.49" as="targetPoint" />
+            <mxPoint x="590" y="260" as="sourcePoint" />
+            <mxPoint x="250" y="260" as="targetPoint" />
           </mxGeometry>
         </mxCell>
         <mxCell id="Ay433vLhD5onKc3j3dtD-34" value="" style="endArrow=block;html=1;" edge="1" parent="1">
           <mxGeometry relative="1" as="geometry">
-            <mxPoint x="250" y="259.49" as="sourcePoint" />
-            <mxPoint x="590" y="259.49" as="targetPoint" />
+            <mxPoint x="250" y="314.74" as="sourcePoint" />
+            <mxPoint x="590" y="314.74" as="targetPoint" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="Ay433vLhD5onKc3j3dtD-35" value="&lt;font style=&quot;font-size: 8px;&quot;&gt;④ Ping/Heartbeat&lt;/font&gt;" style="text;html=1;align=left;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" vertex="1" parent="1">
-          <mxGeometry x="250" y="240" width="90" height="30" as="geometry" />
+        <mxCell id="Ay433vLhD5onKc3j3dtD-35" value="&lt;font style=&quot;font-size: 8px;&quot;&gt;④ Command&lt;/font&gt;" style="text;html=1;align=right;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" vertex="1" parent="1">
+          <mxGeometry x="520" y="240" width="70" height="30" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
