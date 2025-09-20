@@ -64,9 +64,6 @@
             <mxPoint x="573" y="360" as="targetPoint" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="Ay433vLhD5onKc3j3dtD-39" value="&lt;span style=&quot;text-align: left; text-wrap-mode: nowrap;&quot;&gt;TCP Connect + TLS Handshake&lt;/span&gt;" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="325" y="170" width="190" height="20" as="geometry" />
-        </mxCell>
         <mxCell id="Ay433vLhD5onKc3j3dtD-41" value="" style="endArrow=none;dashed=1;html=1;rounded=0;" edge="1" parent="1">
           <mxGeometry width="50" height="50" relative="1" as="geometry">
             <mxPoint x="250" y="540" as="sourcePoint" />
@@ -78,9 +75,6 @@
             <mxPoint x="589.74" y="540" as="sourcePoint" />
             <mxPoint x="589.74" y="160" as="targetPoint" />
           </mxGeometry>
-        </mxCell>
-        <mxCell id="Ay433vLhD5onKc3j3dtD-48" value="&lt;div style=&quot;text-align: left;&quot;&gt;&lt;span style=&quot;background-color: transparent; text-wrap-mode: nowrap;&quot;&gt;InitialSetting -&amp;gt; ClientInfo&lt;/span&gt;&lt;/div&gt;" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="325" y="210" width="190" height="20" as="geometry" />
         </mxCell>
         <mxCell id="Ay433vLhD5onKc3j3dtD-52" value="" style="endArrow=classic;startArrow=classic;html=1;rounded=0;" edge="1" parent="1">
           <mxGeometry width="50" height="50" relative="1" as="geometry">
@@ -101,6 +95,12 @@
             <mxPoint x="30" y="50" as="sourcePoint" />
             <mxPoint x="350" y="50" as="targetPoint" />
           </mxGeometry>
+        </mxCell>
+        <mxCell id="Ay433vLhD5onKc3j3dtD-55" value="&lt;span style=&quot;&quot;&gt;TCP Connect + TLS Handshake&lt;/span&gt;" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" vertex="1" parent="1">
+          <mxGeometry x="325" y="180" width="190" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="Ay433vLhD5onKc3j3dtD-57" value="InitialSetting -&gt; ClientInfo" style="text;whiteSpace=wrap;align=center;" vertex="1" parent="1">
+          <mxGeometry x="335" y="220" width="170" height="40" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
