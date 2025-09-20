@@ -52,16 +52,10 @@
             <mxPoint x="250" y="390" as="targetPoint" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="Ay433vLhD5onKc3j3dtD-33" value="" style="endArrow=block;html=1;" edge="1" parent="1">
-          <mxGeometry relative="1" as="geometry">
-            <mxPoint x="590" y="360" as="sourcePoint" />
-            <mxPoint x="250" y="360" as="targetPoint" />
-          </mxGeometry>
-        </mxCell>
         <mxCell id="Ay433vLhD5onKc3j3dtD-34" value="" style="endArrow=block;html=1;" edge="1" parent="1">
           <mxGeometry relative="1" as="geometry">
-            <mxPoint x="253" y="360" as="sourcePoint" />
-            <mxPoint x="573" y="360" as="targetPoint" />
+            <mxPoint x="260" y="370" as="sourcePoint" />
+            <mxPoint x="580" y="370" as="targetPoint" />
           </mxGeometry>
         </mxCell>
         <mxCell id="Ay433vLhD5onKc3j3dtD-41" value="" style="endArrow=none;dashed=1;html=1;rounded=0;" edge="1" parent="1">
@@ -103,13 +97,16 @@
           <mxGeometry x="325" y="180" width="190" height="30" as="geometry" />
         </mxCell>
         <mxCell id="Ay433vLhD5onKc3j3dtD-57" value="InitialSetting -&gt; ClientInfo" style="text;whiteSpace=wrap;align=center;" vertex="1" parent="1">
-          <mxGeometry x="335" y="220" width="170" height="40" as="geometry" />
+          <mxGeometry x="332.5" y="220" width="175" height="30" as="geometry" />
         </mxCell>
         <mxCell id="Ay433vLhD5onKc3j3dtD-60" value="Heartbeat" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" vertex="1" parent="1">
           <mxGeometry x="380" y="250" width="80" height="30" as="geometry" />
         </mxCell>
         <mxCell id="Ay433vLhD5onKc3j3dtD-61" value="Command(e.g., ShellExec)" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" vertex="1" parent="1">
-          <mxGeometry x="315" y="318" width="170" height="30" as="geometry" />
+          <mxGeometry x="328" y="318" width="170" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="Ay433vLhD5onKc3j3dtD-62" value="Command Result" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" vertex="1" parent="1">
+          <mxGeometry x="360" y="348" width="120" height="30" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
