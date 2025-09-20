@@ -88,7 +88,7 @@
             <mxPoint x="590" y="280" as="targetPoint" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="Ay433vLhD5onKc3j3dtD-39" value="&lt;span style=&quot;text-align: left; text-wrap-mode: nowrap;&quot;&gt;TCP Connect + TLS Handshake&lt;/span&gt;&lt;font style=&quot;text-align: left; text-wrap-mode: nowrap;&quot; face=&quot;Helvetica&quot;&gt;(&lt;span style=&quot;line-height: 13.8px;&quot; lang=&quot;EN-US&quot;&gt;InitialSetting&lt;/span&gt;&lt;span style=&quot;line-height: 13.8px;&quot;&gt;、&lt;span lang=&quot;EN-US&quot;&gt;ClientInfo&lt;/span&gt;&lt;/span&gt;)&lt;/font&gt;&lt;span style=&quot;text-align: left; text-wrap-mode: nowrap;&quot;&gt;&amp;nbsp;&lt;/span&gt;" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+        <mxCell id="Ay433vLhD5onKc3j3dtD-39" value="&lt;span style=&quot;text-align: left; text-wrap-mode: nowrap;&quot;&gt;TCP Connect + TLS Handshake&lt;/span&gt;" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="260" y="170" width="320" height="20" as="geometry" />
         </mxCell>
         <mxCell id="Ay433vLhD5onKc3j3dtD-41" value="" style="endArrow=none;dashed=1;html=1;rounded=0;" edge="1" parent="1">
