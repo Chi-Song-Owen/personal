@@ -48,8 +48,8 @@
         </mxCell>
         <mxCell id="Ay433vLhD5onKc3j3dtD-23" value="" style="endArrow=block;html=1;labelBackgroundColor=none;strokeColor=#736CA8;fontColor=default;" edge="1" parent="1">
           <mxGeometry relative="1" as="geometry">
-            <mxPoint x="590" y="440" as="sourcePoint" />
-            <mxPoint x="250" y="440" as="targetPoint" />
+            <mxPoint x="580" y="440" as="sourcePoint" />
+            <mxPoint x="260" y="440" as="targetPoint" />
           </mxGeometry>
         </mxCell>
         <mxCell id="Ay433vLhD5onKc3j3dtD-34" value="" style="endArrow=block;html=1;labelBackgroundColor=none;strokeColor=#736CA8;fontColor=default;" edge="1" parent="1">
@@ -119,6 +119,9 @@
         </mxCell>
         <mxCell id="Ay433vLhD5onKc3j3dtD-72" value="Execute" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;fontColor=#1A1A1A;" vertex="1" parent="1">
           <mxGeometry x="170" y="360" width="70" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="Ay433vLhD5onKc3j3dtD-73" value="File Transfer Command" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;fontColor=#1A1A1A;" vertex="1" parent="1">
+          <mxGeometry x="345" y="420" width="150" height="30" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
