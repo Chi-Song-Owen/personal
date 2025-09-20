@@ -147,6 +147,15 @@
         <mxCell id="Ay433vLhD5onKc3j3dtD-79" value="Load" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;fontColor=#1A1A1A;" vertex="1" parent="1">
           <mxGeometry x="190" y="512" width="50" height="30" as="geometry" />
         </mxCell>
+        <mxCell id="Ay433vLhD5onKc3j3dtD-80" value="" style="endArrow=block;html=1;labelBackgroundColor=none;strokeColor=#736CA8;fontColor=default;" edge="1" parent="1">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="260" y="550" as="sourcePoint" />
+            <mxPoint x="580" y="550" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="Ay433vLhD5onKc3j3dtD-81" value="Plugin Status" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;fontColor=#1A1A1A;" vertex="1" parent="1">
+          <mxGeometry x="375" y="530" width="90" height="30" as="geometry" />
+        </mxCell>
       </root>
     </mxGraphModel>
   </diagram>
